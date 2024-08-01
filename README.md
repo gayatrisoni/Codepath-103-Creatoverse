@@ -27,7 +27,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='(https://github.com/gayatrisoni/Codepath-103-Creatoverse/blob/main/Creatoverse%20video%20walkthrough.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='(https://imgur.com/LFxugjR)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
